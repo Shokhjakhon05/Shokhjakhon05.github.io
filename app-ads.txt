@@ -1,0 +1,4 @@
+# app-ads.txt for pub-1105164221036743 (Google AdMob)
+# Authorized digital sellers, per the IAB Tech Lab app-ads.txt spec.
+# Apps: Sejong Elite (com.sejongelite.sejong_elite), Zukko English (com.zukko.english)
+google.com, pub-1105164221036743, DIRECT, f08c47fec0942fa0
